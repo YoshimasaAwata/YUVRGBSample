@@ -4,8 +4,7 @@
 #include <fstream>
 #include <cstring>
 #include <cmath>
-#include <windows.h>
-#include <wingdi.h>
+#include "bitmap.h"
 
 const int CIF_WIDTH = 352;
 const int CIF_HEIGHT = 288;
